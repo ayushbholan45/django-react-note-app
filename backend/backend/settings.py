@@ -102,6 +102,6 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://your-app-name.vercel.app",
+    "https://django-react-note-app-nine.vercel.app",
 ]
 CORS_ALLOWS_CREDENTIALS = True
