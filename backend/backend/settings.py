@@ -11,7 +11,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 
 DEBUG = False
 
-ALLOWED_HOSTS = ["your-app-name.onrender.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["django-react-note-app-38p5.onrender.com", "localhost", "127.0.0.1"]
 
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
