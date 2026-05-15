@@ -175,10 +175,4 @@ Create a `.env` file in the backend directory if needed for:
 - Clear node_modules and reinstall: `rm -rf node_modules && npm install`
 - Clear Vite cache: `rm -rf .vite`
 
-## License
 
-Specify your project license here.
-
-## Contributing
-
-Guidelines for contributing to this project.
